@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 16,
+  "launch": {
+
+    "configurations": [],
+    "compounds": []
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#5A9F9F"
+  }
+}
